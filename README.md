@@ -1,3 +1,3 @@
 # demo
-Author<br>Daanish
+Editor<br>Mohammad Daanish 
 
